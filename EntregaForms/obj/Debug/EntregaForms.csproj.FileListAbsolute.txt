@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\EntregaForms\EntregaForms\bin\Debug\EntregaForms.exe.config
+C:\Users\User\source\repos\EntregaForms\EntregaForms\bin\Debug\EntregaForms.exe
+C:\Users\User\source\repos\EntregaForms\EntregaForms\bin\Debug\EntregaForms.pdb
+C:\Users\User\source\repos\EntregaForms\EntregaForms\obj\Debug\EntregaForms.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EntregaForms\EntregaForms\obj\Debug\EntregaForms.frmLogin.resources
+C:\Users\User\source\repos\EntregaForms\EntregaForms\obj\Debug\EntregaForms.Properties.Resources.resources
+C:\Users\User\source\repos\EntregaForms\EntregaForms\obj\Debug\EntregaForms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\EntregaForms\EntregaForms\obj\Debug\EntregaForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EntregaForms\EntregaForms\obj\Debug\EntregaForms.exe
+C:\Users\User\source\repos\EntregaForms\EntregaForms\obj\Debug\EntregaForms.pdb
+C:\Users\User\source\repos\EntregaForms\EntregaForms\obj\Debug\EntregaForms.Views.frmCadastro.resources
+C:\Users\User\source\repos\EntregaForms\EntregaForms\obj\Debug\EntregaForms.Views.ListaUsuario.resources
+C:\Users\User\source\repos\EntregaForms\EntregaForms\obj\Debug\EntregaForms.Views.frmTelaPrincipal.resources
+C:\Users\User\source\repos\EntregaForms\EntregaForms\obj\Debug\EntregaForms.Views.frmTelaUsuario.resources
